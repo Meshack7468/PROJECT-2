@@ -87,6 +87,6 @@ Few spread of films around the regression line suggest that some other factors a
 ├── images
 ├── gitignore
 ├── README.md
-├── fims_analysis.ipynb
-└── presentation.pdf
+├── presentation.pdf
+└── index.ipynb
 ```
