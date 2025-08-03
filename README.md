@@ -48,15 +48,22 @@ This project uses descriptive statistics and inferential analysis to show insigh
 * I performed a statistical test to confirm if the average domestic gross differ between the studios. By creating a null hypothesis stating that
 the means of domestic gross across the studios are the same and a contradicting alternative hypothesis stating, The means of domestic gross across the studios are not the same.
 After performing the ANOVA Test we realised that indeed there is a strong statistical evidence that studios that produce a movie have an impact on how much money it earns in the domestic box office market.
+
 ![alternative](./images/topStudiosbyDomesticgross.png)
 
 * Analyzing the genres popularity between 2010 and 2018 I observed that Over the years Drama production dominated the film industry with over 3,000 films. Followed by Comedy and Documentary with more than 1500 films each.
+  
 ![alternative](./images/Genrestrends.png)
+
 * In terms of film production budget and worldwide gross income;
+  
 ![alternative](./images/budgetVSworldwidegross.png)
+
 * There is a lot of film spread at the low-budget (Below 100 million dollars) compared to the high-budget (Above 100 million dollars).
 At lower-budgets some films display high gross income while others don't. At higher-budgets, gross increases rapidly but still fluctuates in some cases.
+
 ![alternative](./images/budgetVSworldwidegrossRegression.png)
+
 * Judging by the slope of the regression line there is a positve relationship between film production budget and worldwide gross income, meaning
 as the production budget increases, the worldwide gross income also tend to increase (bigger budget films result to higher gross income).
 Few spread of films around the regression line suggest that some other factors apart from the production budget i.e genre type, movie runtime duratin also have an effect on the worldwide gross.
